@@ -1,0 +1,31 @@
+.App {
+
+  text-align: center;
+}
+.textarea{
+  width: 300px;
+  height: 30px;
+}
+.uploadbtn{
+  background-color: #14f169;
+  font-size: 20px;
+  margin-top: 20px;
+  color: aliceblue;
+  border-radius: 8px;
+  border-color: rgb(243, 243, 252);
+
+}
+
+.heading {
+  font-size: 30px;
+  stroke-width: 3px;
+  color: #14f169;
+  font-weight: 300px;
+  letter-spacing: 2px;
+  
+}
+
+.fileinput{
+  margin-top: 20px;
+}
+
